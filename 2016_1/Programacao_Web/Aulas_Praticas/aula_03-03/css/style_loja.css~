@@ -1,0 +1,31 @@
+body {
+	margin: 2% 20% 3% 20%;
+	font-family: "Arial","Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-align: center;
+	background-image: url(../img/videira.png);
+	background-repeat: no-repeat;	
+    background-position: right top;
+	
+	
+}
+
+h1 {
+	font-family: "Times new roman";
+}
+
+table {
+	text-align: center;
+}
+
+figure img {
+	border: 4px solid;
+	margin: 0 auto;
+	display: block;
+	color: #6AA84F
+
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
