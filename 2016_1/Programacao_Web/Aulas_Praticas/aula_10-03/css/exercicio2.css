@@ -1,0 +1,53 @@
+
+.menu-bar {
+  display:block;
+}
+
+ul li ul li {
+  font-size: 16px;
+}
+
+/*Esconde submenu do Menu*/
+ul li ul{
+  font-size: 24px;
+  display: none;
+}
+
+/*Abre submenu do Menu*/
+ul li:hover ul{
+  display: block;
+}
+
+/*Esconde submenu do submenu*/
+ul li ul li li {
+   display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+a:link {
+  color:#0000FF;
+}
+
+a[href^="http"] {
+  background: url(https://www.google.com/help/hc/images/chrome_95440_predictionicon.png) no-repeat;
+  padding: 0 25px;
+  display: inline;
+}
+
+a:hover {
+  color:#FF0000;
+}
+
+a:visited {
+  color:#9B30FF;
+}
+

@@ -1,0 +1,36 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="css/style_atividade1.css">
+		<title></title>
+	</head>
+	<body>
+		<div class="menu-bar">
+		  <ul>
+			<li>
+			  Menu
+			  <ul>
+				<li>
+				  <a href="example.html">Link</a>
+				</li>
+				<li>
+				  Submenu
+				  <ul>
+				    <li>
+				      Submenu
+				      <ul>
+				        <li><a href="example.html">Link</a></li>
+				        <li><a href="example.html">Link</a></li>
+				        <li><a href="http://www.omo.com.br">Link</a></li>
+				        <li><a href="http://www.pudim.com.br">Link</a></li>
+				      </ul>
+				    </li>
+				    <li><a href="example.html">Link</a></li>
+				  </ul>
+				</li>
+			  </ul>
+			</li>
+		  </ul>
+		</div>
+	</body>
+</html>
