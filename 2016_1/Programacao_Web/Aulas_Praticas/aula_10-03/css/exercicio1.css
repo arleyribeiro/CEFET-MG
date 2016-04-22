@@ -1,0 +1,25 @@
+ul li {
+  font-size: 24px;
+}
+
+ul li ul li {
+  font-size: 16px;
+}
+
+a:link {
+  color:#0000FF;
+}
+
+a[href^="http"] {
+  background: url(https://www.google.com/help/hc/images/chrome_95440_predictionicon.png) no-repeat;
+  padding: 0 25px;
+  display: inline;
+}
+
+a:hover {
+  color:#FF0000;
+}
+
+a:visited {
+  color:#9B30FF;
+}

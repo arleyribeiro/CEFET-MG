@@ -1,0 +1,8 @@
+body p {
+ color: blue;
+}
+
+.inicial {
+    color: red;    
+   text-decoration: underline;
+}

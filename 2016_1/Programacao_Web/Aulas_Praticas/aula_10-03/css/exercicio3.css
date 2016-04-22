@@ -1,0 +1,29 @@
+table, tr, td{
+    border: 1px solid #993738;
+    border-collapse: collapse;
+    font-family: "Arial";
+   // padding: 10px0;
+}
+
+td:first-child {
+  width:210px;
+}
+
+td {
+  width:130px;
+}
+
+tr:first-child {
+   background:#993738;
+   color: #ffffff;
+}
+tr {
+  background:white;
+  font-size: 14px;
+  padding: 10px;
+}
+
+.alt {
+  background:#cccccc;
+  }
+
