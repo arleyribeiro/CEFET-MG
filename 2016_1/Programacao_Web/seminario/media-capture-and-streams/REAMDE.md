@@ -12,3 +12,6 @@ Arley Ribeiro e Rafael Barbosa
 3.3. http://www.html5rocks.com/pt/tutorials/getusermedia/intro/
 3.4. https://davidwalsh.name/browser-camera
 3.5. http://code.tutsplus.com/tutorials/getusermedia-using-the-media-capture-and-streams-api--cms-24784
+
+![Image of Yaktocat]
+(https://octodex.github.com/images/yaktocat.png)
